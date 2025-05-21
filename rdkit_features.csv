@@ -1,0 +1,3 @@
+system,smiles,MolWt,MolLogP,TPSA,NumAromaticRings,HAcceptor,HDonor,ValElect,IPC
+benzene,C1=CC=CC=C1,78.11,1.69,0.0,1,0,0,30,34.4
+furan,C1=COC=C1,68.08,1.28,13.14,1,1,0,26,22.89
